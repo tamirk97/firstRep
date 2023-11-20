@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="background-color:firebrick;">Tomato</h1>
+    <h1><strong> </strong></h1>
+    <p>tamit tamir dddddd</p>
+    dsfsddsfsf
+    <p style="color:blue;">many balls</p>
+    <img src="balls.messi.jpeg" alt="messi ball" >
+    <img src="ucl.ball.jpeg" alt="ucl ball" >
+    <img src="maccabi.ball.jpeg" alt="maccabi ball" >
+    <p style="color:rgb(157, 255, 0);">random picture</p>
+    <br>
+    <img src="https://picsum.photos/200?random=1">
+    <img src="https://picsum.photos/200/300?grayscale">
+
+    <br>
+
+
+</body>
+</html>
